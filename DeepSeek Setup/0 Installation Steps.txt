@@ -1,4 +1,5 @@
 Step 1) install Ollama in your machine
+
 Step 2) Copy the Command for any of the DeepSeek Model
     ollama run deepseek-r1:7b
     ollama run deepseek-r1:32b
@@ -6,9 +7,12 @@ Step 2) Copy the Command for any of the DeepSeek Model
     ollama run deepseek-r1:671b
     ollama run deepseek-coder-v2
     ollama run deepseek-coder-v2:16b
+
 Step 3) Run any of this command in CMD
             The model will be downloaded to your system
+
 Step 4) Install "Anything LLM Desktop"
+
 Step 5) Setup the "AnyThing LLM" and run your prompt.
 
 Note :: You can also execute prompts in CMD if yout dont want to use Graphical UI.
