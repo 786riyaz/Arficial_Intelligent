@@ -1,0 +1,63 @@
+1-- 1:43  to 1:52
+
+Generalist
+Specialist
+
+Step 1 :: Tokenize
+Step 2 :: Embeddings
+Step 3 :: Self Attention
+Step 4 :: Prediction
+
+Open Router /// getMulti
+
+Content Generation
+Image Generation - Google Gemini -- Nano Banana / Leonardo.Ai
+Video Generation - Google Gemini -- Veo3
+Phot.Ai
+
+Productivity
+Wispr flow - Audio to Text
+Songs - Claude - Sonet // Suno
+Fireflies.ai - Meeting Notes, Voice Agent
+cronical ai - Creating PPT
+Emily - Document reading / Youtube video summary
+SuperGrow - Linked in Post generation / carousel generation
+happenstance - searching person according to role
+superjoin AI - for product review
+numerious AI - 
+Humanic AI - Email sending
+Chronical AI - 
+Lyzr AI - 
+
+
+Research
+Perplexity - Research
+gemini deep search
+chatgpt deep search
+
+VAPI
+apify - to get transcript, transcribe
+Goose
+
+https://highfalutin-camel-f57.notion.site/OutSkill-s-Generative-AI-Mastermind-Session-1-Resource-Guide-2572c10dd7068090a415fa41db7b5d54
+
+https://highfalutin-camel-f57.notion.site/OutSkill-s-Generative-AI-Mastermind-Session-1-Resource-Guide-2572c10dd7068090a415fa41db7b5d54
+
+Connect with RV Here : https://www.buildwithrv.com/
+Perplexity Comet: https://outskill.link/perplexity-comet
+
+
+#  = Headline
+## = Headline 2
+### = Headline 3
+** = Bold
+
+Open Router Bolt
+
+LLM Parameters ===>
+presence penalty
+frequency penalty
+temprature
+max tokens
+
+
